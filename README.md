@@ -8,3 +8,6 @@ etc. in increments of 5 up to Fibonacci (100) (or higher value if required for y
 corresponding run times. You need to use Java’s built-in time function for this purpose. You should redirect the output 
 of each program to an out.txt file. You should write about your observations on timing measurements in a separate text 
 or pdf file.
+
+The two types are:
+Fibonacci through tail-recursion and fibonacci through linear-recursion
